@@ -1,0 +1,48 @@
+D:\ВШЭ\Прога\Домашки\Peer Grade\OrdersManager\OrdersManager\bin\Debug\OrdersManager.exe.config
+D:\ВШЭ\Прога\Домашки\Peer Grade\OrdersManager\OrdersManager\bin\Debug\OrdersManager.exe
+D:\ВШЭ\Прога\Домашки\Peer Grade\OrdersManager\OrdersManager\bin\Debug\OrdersManager.pdb
+D:\ВШЭ\Прога\Домашки\Peer Grade\OrdersManager\OrdersManager\obj\Debug\OrdersManager.csprojAssemblyReference.cache
+D:\ВШЭ\Прога\Домашки\Peer Grade\OrdersManager\OrdersManager\obj\Debug\OrdersManager.MainForm.resources
+D:\ВШЭ\Прога\Домашки\Peer Grade\OrdersManager\OrdersManager\obj\Debug\OrdersManager.Properties.Resources.resources
+D:\ВШЭ\Прога\Домашки\Peer Grade\OrdersManager\OrdersManager\obj\Debug\OrdersManager.csproj.GenerateResource.cache
+D:\ВШЭ\Прога\Домашки\Peer Grade\OrdersManager\OrdersManager\obj\Debug\OrdersManager.csproj.CoreCompileInputs.cache
+D:\ВШЭ\Прога\Домашки\Peer Grade\OrdersManager\OrdersManager\obj\Debug\OrdersManager.exe
+D:\ВШЭ\Прога\Домашки\Peer Grade\OrdersManager\OrdersManager\obj\Debug\OrdersManager.pdb
+D:\ВШЭ\Прога\Домашки\Peer Grade\OrdersManager\OrdersManager\bin\Debug\Newtonsoft.Json.dll
+D:\ВШЭ\Прога\Домашки\Peer Grade\OrdersManager\OrdersManager\bin\Debug\Newtonsoft.Json.xml
+D:\ВШЭ\Прога\Домашки\Peer Grade\OrdersManager\OrdersManager\obj\Debug\OrdersManager.csproj.CopyComplete
+D:\ВШЭ\Прога\Домашки\Peer Grade\OrdersManager\OrdersManager\obj\Debug\OrdersManager.UserForm.resources
+D:\ВШЭ\Прога\Домашки\Peer Grade\OrdersManager\OrdersManager\obj\Debug\OrdersManager.OrderMakeForm.resources
+D:\ВШЭ\Прога\Домашки\Peer Grade\OrdersManager\OrdersManager\obj\Debug\OrdersManager.BasketForm.resources
+D:\ВШЭ\Прога\Домашки\Peer Grade\OrdersManager\OrdersManager\obj\Debug\OrdersManager.AccountForm.resources
+D:\ВШЭ\Прога\Домашки\Peer Grade\OrdersManager\OrdersManager\obj\Debug\OrdersManager.ExtraEnterForm.resources
+D:\ВШЭ\Прога\Домашки\Peer Grade\OrdersManager\OrdersManager\obj\Debug\OrdersManager.SellerForm.resources
+D:\ВШЭ\Прога\Домашки\Peer Grade\OrdersManager\OrdersManager\obj\Debug\OrdersManager.ProductForm.resources
+D:\ВШЭ\Прога\Домашки\Peer Grade\OrdersManager\OrdersManager\obj\Debug\OrdersManager.SellerUsersForm.resources
+D:\ВШЭ\Прога\Домашки\Peer Grade\OrdersManager\OrdersManager\obj\Debug\OrdersManager.SellerOredersForm.resources
+D:\ВШЭ\Прога\Домашки\Peer Grade\OrdersManager\OrdersManager\obj\Debug\OrdersManager.PriceReportForm.resources
+D:\ВШЭ\Прога\Домашки\Peer Grade\OrdersManager\OrdersManager\obj\Debug\OrdersManager.DefectReportForm.resources
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\OrdersManager\OrdersManager\bin\Debug\OrdersManager.exe.config
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\OrdersManager\OrdersManager\bin\Debug\OrdersManager.exe
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\OrdersManager\OrdersManager\bin\Debug\OrdersManager.pdb
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\OrdersManager\OrdersManager\bin\Debug\Newtonsoft.Json.dll
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\OrdersManager\OrdersManager\bin\Debug\Newtonsoft.Json.xml
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\OrdersManager\OrdersManager\obj\Debug\OrdersManager.csprojAssemblyReference.cache
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\OrdersManager\OrdersManager\obj\Debug\OrdersManager.AccountForm.resources
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\OrdersManager\OrdersManager\obj\Debug\OrdersManager.BasketForm.resources
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\OrdersManager\OrdersManager\obj\Debug\OrdersManager.DefectReportForm.resources
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\OrdersManager\OrdersManager\obj\Debug\OrdersManager.ExtraEnterForm.resources
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\OrdersManager\OrdersManager\obj\Debug\OrdersManager.MainForm.resources
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\OrdersManager\OrdersManager\obj\Debug\OrdersManager.OrderMakeForm.resources
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\OrdersManager\OrdersManager\obj\Debug\OrdersManager.PriceReportForm.resources
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\OrdersManager\OrdersManager\obj\Debug\OrdersManager.ProductForm.resources
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\OrdersManager\OrdersManager\obj\Debug\OrdersManager.Properties.Resources.resources
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\OrdersManager\OrdersManager\obj\Debug\OrdersManager.SellerForm.resources
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\OrdersManager\OrdersManager\obj\Debug\OrdersManager.SellerOredersForm.resources
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\OrdersManager\OrdersManager\obj\Debug\OrdersManager.SellerUsersForm.resources
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\OrdersManager\OrdersManager\obj\Debug\OrdersManager.UserForm.resources
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\OrdersManager\OrdersManager\obj\Debug\OrdersManager.csproj.GenerateResource.cache
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\OrdersManager\OrdersManager\obj\Debug\OrdersManager.csproj.CoreCompileInputs.cache
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\OrdersManager\OrdersManager\obj\Debug\OrdersManager.csproj.CopyComplete
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\OrdersManager\OrdersManager\obj\Debug\OrdersManager.exe
+D:\ВШЭ\Прога\Домашки\Peer Grade\Старое, дряхлое и ненужное\Проекты\OrdersManager\OrdersManager\obj\Debug\OrdersManager.pdb

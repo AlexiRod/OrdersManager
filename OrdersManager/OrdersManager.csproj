@@ -1,0 +1,226 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{DABFD07D-4BA7-4343-9618-82C199C0422D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>OrdersManager</RootNamespace>
+    <AssemblyName>OrdersManager</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <LangVersion>preview</LangVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <LangVersion>preview</LangVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.13.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AccountForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AccountForm.Designer.cs">
+      <DependentUpon>AccountForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BasketForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BasketForm.Designer.cs">
+      <DependentUpon>BasketForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DefectReportForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DefectReportForm.Designer.cs">
+      <DependentUpon>DefectReportForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ExtraEnterForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ExtraEnterForm.Designer.cs">
+      <DependentUpon>ExtraEnterForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Order.cs" />
+    <Compile Include="OrderMakeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OrderMakeForm.Designer.cs">
+      <DependentUpon>OrderMakeForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PriceReportForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PriceReportForm.Designer.cs">
+      <DependentUpon>PriceReportForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Product.cs" />
+    <Compile Include="ProductForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProductForm.Designer.cs">
+      <DependentUpon>ProductForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SellerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SellerForm.Designer.cs">
+      <DependentUpon>SellerForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SellerOredersForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SellerOredersForm.Designer.cs">
+      <DependentUpon>SellerOredersForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SellerUsersForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SellerUsersForm.Designer.cs">
+      <DependentUpon>SellerUsersForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User.cs" />
+    <Compile Include="UserForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserForm.Designer.cs">
+      <DependentUpon>UserForm.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AccountForm.resx">
+      <DependentUpon>AccountForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BasketForm.resx">
+      <DependentUpon>BasketForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DefectReportForm.resx">
+      <DependentUpon>DefectReportForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ExtraEnterForm.resx">
+      <DependentUpon>ExtraEnterForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OrderMakeForm.resx">
+      <DependentUpon>OrderMakeForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PriceReportForm.resx">
+      <DependentUpon>PriceReportForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProductForm.resx">
+      <DependentUpon>ProductForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="SellerForm.resx">
+      <DependentUpon>SellerForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SellerOredersForm.resx">
+      <DependentUpon>SellerOredersForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SellerUsersForm.resx">
+      <DependentUpon>SellerUsersForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserForm.resx">
+      <DependentUpon>UserForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Release\Account.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Release\Basket.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Release\Exit.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Release\Information.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Release\NoImage.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Release\Fix.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Release\Orders.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Release\Users.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Release\Add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Release\Defected.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Release\Priced.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
